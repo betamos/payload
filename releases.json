@@ -9,7 +9,7 @@
         },
         "darwin-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0Ry82UjNQWHJRNUMrVklRd2Q2YXpWczBpREZzaFowNHNaWUN5TUoxNEhjRlNzbmRwRnkwL1BVVklZSnBDSjZad3lzV0VNcmR3WXdvY3dENUh6azhkcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NjY0MTAwCWZpbGU6UGF5bG9hZC5hcHAudGFyLmd6Ck0zai9hQW9DbVFjUDUwek9MeDZrUG50S3JIWXBvOXNsbEdXWkVwN0VQNjJ2bUhZMnlDTDlRZmEvSVVhUk1iWmxyQThrZDdqOHFXT1kxNzlaQUtuRkRnPT0K",
-            "url": "https://github.com/betamos/payload/releases/download/1.0.0-beta2/Payload_1.0.0-beta2_universal.dmg"
+            "url": "https://github.com/betamos/payload/releases/download/1.0.0-beta2/Payload.app.tar.gz"
         },
         "linux-x86_64": {
             "signature": "",
