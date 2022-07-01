@@ -13,7 +13,7 @@
         },
         "linux-x86_64": {
             "signature": "",
-            "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.AppImage.tar.gz"
+            "url": "https://github.com/lemarier/tauri-test/releases/download/v0.1.1/payload_0.1.1_amd64.AppImage.tar.gz"
         },
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzhuOWN1NzlQemQ1UGRqSUJNTDBDSzRHMzBHb1g2TlpkdUlQb1IxVmE3Nm02dHFXVWVINnR3MXpyRGU4QWpQa1J0Y1RUVnhCY2FIUWtlejE3MUpZNXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NzE1MjcxCWZpbGU6UGF5bG9hZF8wLjEuMV94NjRfZW4tVVMubXNpLnppcApqZk1YODRqOG94NGI1MFp2cGszTkdtbzAvVTBLTzhQekpremQ4dyt0cDB6YnorUWFPZTZKZEk0QWljK09jaGRmZGhobFZURGMxMU5PUkd1MzNuakdCQT09Cg==",
