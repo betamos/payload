@@ -1,1 +1,23 @@
-{}
+{
+    "version": "v1.0.0-beta2",
+    "notes": "Example note",
+    "pub_date": "2022-06-30T19:25:57Z",
+    "platforms": {
+        "darwin-x86_64": {
+            "signature": "",
+            "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.app.tar.gz"
+        },
+        "darwin-aarch64": {
+            "signature": "",
+            "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/silicon/app.app.tar.gz"
+        },
+        "linux-x86_64": {
+            "signature": "",
+            "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.AppImage.tar.gz"
+        },
+        "windows-x86_64": {
+            "signature": "",
+            "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.x64.msi.zip"
+        }
+    }
+}
