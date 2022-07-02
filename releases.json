@@ -13,7 +13,7 @@
         },
         "linux-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzI4TlREbmIwQnJzNmsxczh4WWMxT0sybXlialVYcFZRdVoyNHBrOVlwaWVLclZ2and4eFNCRVVlaFdPS2N1eVJDcDIrazVCWnE0d0k4ckhWL20zSGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NzE4MjE2CWZpbGU6cGF5bG9hZF8wLjEuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKcGJvb0JRbXlTTG1iL1FPUjg1aTdzdWlTeTZPdFhrUU5TekdXR1dqaE9RK0ovRUZpdmZEWWdVaWtXRDdWYjNZSkhDZzNTVXI1NGU1cFQxUWcxZnA5QWc9PQo=",
-            "url": "https://github.com/lemarier/tauri-test/releases/download/v0.1.1/payload_0.1.1_amd64.AppImage.tar.gz"
+            "url": "https://github.com/betamos/payload/releases/download/v0.1.1/payload_0.1.1_amd64.AppImage.tar.gz"
         },
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzhuOWN1NzlQemQ1UGRqSUJNTDBDSzRHMzBHb1g2TlpkdUlQb1IxVmE3Nm02dHFXVWVINnR3MXpyRGU4QWpQa1J0Y1RUVnhCY2FIUWtlejE3MUpZNXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NzE1MjcxCWZpbGU6UGF5bG9hZF8wLjEuMV94NjRfZW4tVVMubXNpLnppcApqZk1YODRqOG94NGI1MFp2cGszTkdtbzAvVTBLTzhQekpremQ4dyt0cDB6YnorUWFPZTZKZEk0QWljK09jaGRmZGhobFZURGMxMU5PUkd1MzNuakdCQT09Cg==",
