@@ -16,7 +16,7 @@
             "url": "https://github.com/betamos/payload/releases/download/v0.1.1/payload_0.1.1_amd64.AppImage.tar.gz"
         },
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzhuOWN1NzlQemQ1UGRqSUJNTDBDSzRHMzBHb1g2TlpkdUlQb1IxVmE3Nm02dHFXVWVINnR3MXpyRGU4QWpQa1J0Y1RUVnhCY2FIUWtlejE3MUpZNXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NzE1MjcxCWZpbGU6UGF5bG9hZF8wLjEuMV94NjRfZW4tVVMubXNpLnppcApqZk1YODRqOG94NGI1MFp2cGszTkdtbzAvVTBLTzhQekpremQ4dyt0cDB6YnorUWFPZTZKZEk0QWljK09jaGRmZGhobFZURGMxMU5PUkd1MzNuakdCQT09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzBEZjNVUERiRXJJU2xpQ1dSQ1cxcTJJdUdtMXFPWFJYZDhiOHpXbmZEYjk0MlpibS9TL3FDYTAvYjlBcFNzTGRsbXloRU9XTE1sTEp0NWMwVVRaeGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NzIzNDk2CWZpbGU6UGF5bG9hZF8wLjEuMV94NjRfZW4tVVMubXNpLnppcApya3I3SWlzWHlsVnh1VkM3YlVySCthdUQ2d2dFNU9HdjE1UjhMdFk5cVM1S0JXaHFRVnNHZmtBaDYyQ0ZGaUFqei9sYVJvbzBEMUI1dTF6R0FTTmpEdz09Cg==",
             "url": "https://github.com/betamos/payload/releases/download/v0.1.1/Payload_0.1.1_x64_en-US.msi.zip"
         }
     }
