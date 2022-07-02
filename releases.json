@@ -12,7 +12,7 @@
             "url": "https://github.com/betamos/payload/releases/download/1.0.0-beta2/Payload.app.tar.gz"
         },
         "linux-x86_64": {
-            "signature": "",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzI4TlREbmIwQnJzNmsxczh4WWMxT0sybXlialVYcFZRdVoyNHBrOVlwaWVLclZ2and4eFNCRVVlaFdPS2N1eVJDcDIrazVCWnE0d0k4ckhWL20zSGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NzE4MjE2CWZpbGU6cGF5bG9hZF8wLjEuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKcGJvb0JRbXlTTG1iL1FPUjg1aTdzdWlTeTZPdFhrUU5TekdXR1dqaE9RK0ovRUZpdmZEWWdVaWtXRDdWYjNZSkhDZzNTVXI1NGU1cFQxUWcxZnA5QWc9PQo=",
             "url": "https://github.com/lemarier/tauri-test/releases/download/v0.1.1/payload_0.1.1_amd64.AppImage.tar.gz"
         },
         "windows-x86_64": {
