@@ -1,23 +1,23 @@
 {
-    "version": "v0.1.2",
+    "version": "v0.1.3",
     "notes": "Update Payload frequently to ensure that you get the latest bug fixes and features.",
-    "pub_date": "2022-07-05T22:55:21Z",
+    "pub_date": "2022-07-10T21:58:18Z",
     "platforms": {
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzEyTWNMa1E5NXhzRGZjTUlISGo0enFaUGh3Q2hzNGk5Y2IyVDd0MDJlUG9TUGNiRXQ5N2pydDRFWDUvTTZ4U3AweEdLUFJBbE55MlJxN0x6ME5ubkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MDYwNzM4CWZpbGU6UGF5bG9hZC5hcHAudGFyLmd6CjJac09HL2VCanNvTGhxajNkZ2kzelg1WldaMlN6U0h1RGdZbmh5d0VZVG4yMU9ySGRJM1p1dDJIQ1hzK1pNSkZFMHJkaEZBWmMyUExKNkdUQmlRMkRnPT0K",
-            "url": "https://github.com/betamos/payload/releases/download/v0.1.2/Payload.app.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzhFbGV4S1M4MXNnRVpIcHdqR3RGQ3Z0QWE0QzlNV2JuQmhWMy8wVi8vTGh0WGRmcG91b2Urd3RQLyt2dzFrM0lnSUlVSk1QMjVSakN0L0VoS3JHQ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3NDg5NzMyCWZpbGU6UGF5bG9hZC5hcHAudGFyLmd6CkF2WkEvWFJWQ2w4S0ZSVi9jc1d0blF6OER5d3RGSW1GMEhSS0xqaTUybGZtWGhGTTJ5RVhyWjhwem1HTVRCcUtSeDlFalo2RWlKV0lsVjVqUGd3WkJBPT0K",
+            "url": "https://releases.payload.app/v0.1.3/Payload.app.tar.gz"
         },
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzEyTWNMa1E5NXhzRGZjTUlISGo0enFaUGh3Q2hzNGk5Y2IyVDd0MDJlUG9TUGNiRXQ5N2pydDRFWDUvTTZ4U3AweEdLUFJBbE55MlJxN0x6ME5ubkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MDYwNzM4CWZpbGU6UGF5bG9hZC5hcHAudGFyLmd6CjJac09HL2VCanNvTGhxajNkZ2kzelg1WldaMlN6U0h1RGdZbmh5d0VZVG4yMU9ySGRJM1p1dDJIQ1hzK1pNSkZFMHJkaEZBWmMyUExKNkdUQmlRMkRnPT0K",
-            "url": "https://github.com/betamos/payload/releases/download/v0.1.2/Payload.app.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzhFbGV4S1M4MXNnRVpIcHdqR3RGQ3Z0QWE0QzlNV2JuQmhWMy8wVi8vTGh0WGRmcG91b2Urd3RQLyt2dzFrM0lnSUlVSk1QMjVSakN0L0VoS3JHQ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3NDg5NzMyCWZpbGU6UGF5bG9hZC5hcHAudGFyLmd6CkF2WkEvWFJWQ2w4S0ZSVi9jc1d0blF6OER5d3RGSW1GMEhSS0xqaTUybGZtWGhGTTJ5RVhyWjhwem1HTVRCcUtSeDlFalo2RWlKV0lsVjVqUGd3WkJBPT0K",
+            "url": "https://releases.payload.app/v0.1.3/Payload.app.tar.gz"
         },
         "linux-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzBDNHM4dTVZbmNSVVZSY2Q1TzUrTUlVV0FjUk5OQkJiVHh4QmtnLzRGOXZ3K09TWURoWkx1dC9VMmRPci9mQUxNRDRLS1FmTlQwU1hUam1sekd2Z1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MDYwNjI1CWZpbGU6cGF5bG9hZF8wLjEuMl9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKenpIT3BQd0ExREtFKzJmREdnOGVJQ3pOazFwRm81SU9TZVI5NHBMYmprUktqd0RyUzJxOVNGcjRhQ2VEL1NhTjk1WDRmRFR6RXlXSExqeWhtRW43REE9PQo=",
-            "url": "https://github.com/betamos/payload/releases/download/v0.1.2/payload_0.1.2_amd64.AppImage.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0R3c4VWVFWU9ZMmkxQmFtZVFlbUZMazFrdUNSVUdnbkRnS1FRY0JwTE1rVDMxS0N2YUF6NVo1MWFoT0FINFlKQnhQK2owRVFCVXZYMitJOFZ4OHlrT3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3NDg5NTMzCWZpbGU6cGF5bG9hZF8wLjEuM19hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKb29UalcyL2h4TUZDNGE1cVBucVJvVWRjUkVKYnJUaEY2MW9kRmZFT0hVSkFSRW1heDB1Q1dzN0p3c3orK1ZiRHc5SVp5bDE5OFdLTDQvNXR4ejR4RHc9PQo=",
+            "url": "https://releases.payload.app/v0.1.3/payload_0.1.3_amd64.AppImage.tar.gz"
         },
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0RzBrcDlXL0xGeE1CU1JWM2c5SGQ0Q0hyTDl6WTQ0aWh1Q0J0dWo0MzgvdytsUXdiODZqSU1vcDNSRUdtOGlqYkRveDJCckxLYVovTkdhRmJhQVZ0M3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MDYxNTczCWZpbGU6UGF5bG9hZF8wLjEuMl94NjRfZW4tVVMubXNpLnppcApGamlXbkFTMzhUZFZpQ2Z2b1kzN2xmY1JJYmo0azZSSjQzNHNqd0VCUXI3LzVNTEFaSThZNEtWNE1hSEhGemNadjRMaTJWcElzUUNRajRMTWlwMWtBdz09Cg==",
-            "url": "https://github.com/betamos/payload/releases/download/v0.1.2/Payload_0.1.2_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEpZT2huWlE0R3p4RHVSdEhETkZlVCt3NlA5Q2U1ajdlVnFWdXR6OEdnL0FkY0crTmoxT0picWJPZVlGaWxwWExLbEFyeERXUTF0Rk1QMXZhSXFCQ3FIdUV5clR4MkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3NDkwMDc3CWZpbGU6UGF5bG9hZF8wLjEuM194NjRfZW4tVVMubXNpLnppcApCekZlNkxWdVBZRUhqU2F0Tm5WbGd1ZFRvODY1NEpVdzdvRDBObVB0YU9QUW5rbEdwSzc2VGMrUVBOV0pyYXAyR0VJT3hRQ2RxVVg4K3p0WWZ1bHlCZz09Cg==",
+            "url": "https://releases.payload.app/v0.1.3/Payload_0.1.3_x64_en-US.msi.zip"
         }
     }
 }
