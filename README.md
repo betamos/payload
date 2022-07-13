@@ -6,8 +6,8 @@ This repo is currently only used for issue tracking.
 
 ## Screenshots
 
-![Payload: Compose View](compose.png)
+<img src="compose.png" alt="Payload: Compose View" style="max-width: 440px;"/>
 
-![Payload: Inbox View](inbox.png)
+<img src="inbox.png" alt="Payload: Inbox View" style="max-width: 440px;"/>
 
-![Payload: Compose View](setup.png)
+<img src="setup.png" alt="Payload: Setup View" style="max-width: 440px;"/>
