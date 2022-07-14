@@ -6,8 +6,6 @@ This repo is currently only used for issue tracking.
 
 ## Screenshots
 
-<img src="compose.png" alt="Payload: Compose View" width="440" height="600"/>
-
-<img src="inbox.png" alt="Payload: Inbox View" width="440" height="600"/>
-
-<img src="setup.png" alt="Payload: Setup View" width="440" height="600"/>
+<img src="compose.png" alt="Payload: Compose View" width="330" height="420"/>
+<img src="inbox.png" alt="Payload: Inbox View" width="330" height="420"/>
+<img src="setup.png" alt="Payload: Setup View" width="330" height="420"/>
