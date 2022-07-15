@@ -1,4 +1,4 @@
-# Payload
+<img src="splash.png" alt="Payload Banner" />
 
 [![Chat Server](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/8RTtQrET)
 
