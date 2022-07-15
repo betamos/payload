@@ -1,5 +1,7 @@
 # Payload
 
+[![Chat Server](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/8RTtQrET)
+
 Payload is a cross-platform desktop app for transferring files over local networks: https://payload.app/
 
 This repo is currently only used for issue tracking.
